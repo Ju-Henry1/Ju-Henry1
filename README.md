@@ -5,28 +5,6 @@ Actuellement en recherche d’une alternance pour poursuivre en Master Full-Stac
 
 ---
 
-## 🧑‍💻 Expériences professionnelles
-
-- 🧾 **Cabinet Julien Dubois – Deauville** (Déc. 2024 – Mars 2025)  
-  Développement d’un site web pour un cabinet de géomètres.
-
-- 💻 **DGFIP – ESI Rouen** (Janv. – Fév. 2024)  
-  Réalisation de tests unitaires en PHP avec PHPUnit.
-
-- 📱 **RealTimes – Bihorel** (Juin – Juil. 2023)  
-  Conception d’une interface web responsive pour leur mode tablette.
-
----
-
-## 🎓 Formations
-
-- 💼 **Master Développeur Full-Stack** – MyDigitalSchool (2025 – 2027)  
-- 💻 **Bachelor Développement Web** – MyDigitalSchool (2024 – 2025)  
-- 🖥️ **BTS SIO (Services Informatiques aux Organisations)** – Campus La Châtaigneraie (2022 – 2024)  
-- 🛠️ **Bac STI2D** – Campus La Châtaigneraie (2021 – 2022)  
-
----
-
 ## 🛠️ Compétences techniques
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -41,20 +19,6 @@ Actuellement en recherche d’une alternance pour poursuivre en Master Full-Stac
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-
----
-
-## 🌍 Langues
-
-- 🇫🇷 Français : Natif  
-- 🇬🇧 Anglais : B1  
-- 🇪🇸 Espagnol : A1  
-
----
-
-## 🎯 Centres d'intérêt
-
-🎵 Musique — 🏋️ Sport 
 
 ---
 
